@@ -4,7 +4,7 @@ A curated list of tools and frameworks related to context engineering for LLMs: 
 
 ---
 
-> ⚠️ **Disclaimer:** I’m currently learning more about Context Engineering, so this repo is both a public collection and a learning process. Expect ongoing edits and new entries.
+> ⚠️ **Disclaimer:** This repo is both a public collection and a learning process. Expect ongoing edits and new entries.
 
 > 🧭 **Note on categorization:** Many tools listed here could fit into multiple categories (e.g., prompting, evaluation, orchestration). I've placed each in the section where I believe it provides the most value or has its primary use case.
 
