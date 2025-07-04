@@ -1,6 +1,14 @@
-# Awesome-Context-Engineering
-Curated tools for LLM context engineering: RAG, memory, tools, debugging & more.
+# Awesome Context Engineering 🧠
 
+A curated list of tools and frameworks related to context engineering for LLMs: from prompt writing and context construction to memory, evaluation, orchestration, tools, and streaming.
+
+---
+
+> ⚠️ **Disclaimer:** I’m currently learning more about Context Engineering, so this repo is both a public collection and a learning process. Expect ongoing edits and new entries.
+
+> 🧭 **Note on categorization:** Many tools listed here could fit into multiple categories (e.g., prompting, evaluation, orchestration). I've placed each in the section where I believe it provides the most value or has its primary use case.
+
+---
 ## Categories
 
 - [📝 Prompting & Instruction Design](tools/prompting.md)
@@ -17,4 +25,4 @@ Curated tools for LLM context engineering: RAG, memory, tools, debugging & more.
 
 ---
 
-**Pull requests welcome** – help us expand this ecosystem!
+**Pull requests welcome** 
