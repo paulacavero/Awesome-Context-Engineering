@@ -11,15 +11,15 @@ A curated list of tools and frameworks related to context engineering for LLMs: 
 ---
 ## Categories
 
-- [📝 Prompting & Instruction Design](tools/prompting.md)
-- [📚 Context Templates & Few-shot](tools/context.md)
-- [🧠 Memory Systems](tools/memory.md)
-- [🔍 RAG & Retrieval Systems](tools/rag.md)
-- [🛠️ Function Calling & Tools](tools/tools.md)
-- [🧪 Observability & Debugging](tools/observability.md)
-- [🌊 Streaming Context](tools/streaming.md)
-- [🎛 Orchestration & Protocols](tools/orchestration.md)
-- [📏 Evaluation & Optimization](tools/evaluation.md)
+- 📝 [Prompting & Instruction Design](tools/prompting.md)
+- 📚 [Context Templates & Few-shot](tools/context.md)
+- 🧠 [Memory Systems](tools/memory.md)
+- 🔍 [RAG & Retrieval Systems](tools/rag.md)
+- 🛠️ [Function Calling & Tools](tools/tools.md)
+- 🧪 [Observability & Debugging](tools/observability.md)
+- 🌊 [Streaming Context](tools/streaming.md)
+- 🎛 [Orchestration & Protocols](tools/orchestration.md)
+- 📏 [Evaluation & Optimization](tools/evaluation.md)
 
 
 
