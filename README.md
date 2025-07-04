@@ -20,9 +20,9 @@ A curated list of tools and frameworks related to context engineering for LLMs: 
 - [🌊 Streaming Context](tools/streaming.md)
 - [🎛 Orchestration & Protocols](tools/orchestration.md)
 - [📏 Evaluation & Optimization](tools/evaluation.md)
-- [🌀 Emergence & Symbolic Reasoning](tools/emergence.md)
+
 
 
 ---
 
-**Pull requests welcome** 
+**Pull requests welcome!** 
